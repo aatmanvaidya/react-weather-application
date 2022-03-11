@@ -1,4 +1,4 @@
-# React Weather Application App
+# React Weather Application 
 
 This is a simple weather app created in react.js. This has no backend, its just frontend. 
 
